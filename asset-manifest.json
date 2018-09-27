@@ -1,11 +1,11 @@
 {
-  "main.css": "static/css/main.6877f01d.css",
-  "main.css.map": "static/css/main.6877f01d.css.map",
-  "main.js": "static/js/main.77d3fd94.js",
-  "main.js.map": "static/js/main.77d3fd94.js.map",
-  "static\\media\\List.Basic.Example.scss": "static/media/List.Basic.Example.64a8843c.scss",
-  "static\\media\\background.jpg": "static/media/background.1d33060c.jpg",
-  "static\\media\\fabric.scss": "static/media/fabric.c3af953b.scss",
-  "static\\media\\logo-en.png": "static/media/logo-en.4debe418.png",
-  "static\\media\\ulvy.jpg": "static/media/ulvy.7bc363da.jpg"
+  "main.css": "timeapp/static/css/main.6877f01d.css",
+  "main.css.map": "timeapp/static/css/main.6877f01d.css.map",
+  "main.js": "timeapp/static/js/main.4be0ff6f.js",
+  "main.js.map": "timeapp/static/js/main.4be0ff6f.js.map",
+  "static\\media\\List.Basic.Example.scss": "timeapp/static/media/List.Basic.Example.64a8843c.scss",
+  "static\\media\\background.jpg": "timeapp/static/media/background.1d33060c.jpg",
+  "static\\media\\fabric.scss": "timeapp/static/media/fabric.c3af953b.scss",
+  "static\\media\\logo-en.png": "timeapp/static/media/logo-en.4debe418.png",
+  "static\\media\\ulvy.jpg": "timeapp/static/media/ulvy.7bc363da.jpg"
 }
